@@ -1,0 +1,103 @@
+#intro{
+	background-color: black;
+	color: white;
+	padding: 10px;
+}
+body {
+	font-family: Arial;
+	margin-bottom: 10%;
+	background-color: navajowhite;
+}
+.searchb{
+	margin: 0%;
+	padding: 0%;
+	margin-top: 0%;
+	margin-bottom: 5px;
+	line-height: 25%;	
+}
+#FirstT{
+	font-size: 50px;
+margin-bottom: 0;
+}
+.headers {
+	font-size: 30px;
+	margin: 0;
+	line-height: 120%;
+}
+#title {
+	font-size: 40px;
+	margin: 0;
+	line-height: 120%;
+}
+#explain{
+	text-indent: 50px;
+}
+.dementiaimg{
+	display: block;
+	width: 400px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 15px;
+	display: inline-block;
+
+}
+#picture{
+	align-content: center;
+	align-items: center;
+	margin-left: 8%;
+	margin-right: 4%;
+	margin-top: 20px;
+justify-content: center;
+}
+.DescTitle{
+	font-size: 17px;
+	font-weight: bold;
+	padding: 5px;
+}
+dd{
+	font-size: 15px;
+	margin-bottom: 10px;
+}
+dl{
+	margin: 10px;
+	margin-left: 10px;
+}
+small{
+	font-style: italic;
+	margin-left: 1%;
+}
+.footer{
+	text-align: center;
+}
+.sameline{
+	display: inline-block;
+}
+#logo{
+	height: 7%;
+	width: auto;
+}
+#Search{
+	margin-left: 4.3%;
+}
+article{
+	margin-right: 60px;
+	margin-left: 60px;
+}
+.lastlogo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+#lastlogo{
+	width: 5%;
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+.lines{
+background-color: black;
+color: white;
+padding: 10px;
+}
